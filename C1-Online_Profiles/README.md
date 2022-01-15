@@ -13,6 +13,6 @@ https://github.com/jtruong128
 https://www.linkedin.com/in/janice-truong-25946922b
 
 ### Resume
+https://github.com/jtruong128/liftoff-assignments/blob/master/C1-Online_Profiles/Janice_Truong_Resume_Jan2022%20.pdf
 
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
