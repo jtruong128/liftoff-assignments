@@ -16,4 +16,4 @@ https://trello.com/b/HRkAVx2f/vpop-eatery-online-order-website
 
 ### Project Repo Link
 
-https://github.com/jtruong128/liftoff-assignments/tree/master/P3-Project_Planning
+https://github.com/jtruong128/liftoff-assignments/blob/master/P3-Project_Planning/Project_planning_free_handraw.jpg
